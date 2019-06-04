@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1D89E4</color>
+    <color name="colorAccent">#8BCBF8</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_home">#F2F2F2</color>
+
+    <color name="orange">#EF6C00</color>
+    <color name="grey">#78909C</color>
+    <color name="purple">#7E57C2</color>
+    <color name="blue">#5C6BC0</color>
+    <color name="red">#EC407A</color>
+    <color name="green">#00897B</color>
+    <color name="lblue">#29B6F6</color>
+
+    <color name="lgreen">#1AD086</color>
+    <color name="yellow">#FBBC04</color>
+    <color name="pink">#5D4037</color>
+    <!--<color name="orange">#FF681F</color>-->
+    <!--<color name="yellow">#FAB71E</color>-->
+    <!--<color name="lgreen">#7FDBB6</color>-->
+    <!--<color name="green">#1AD086</color>-->
+    <!--<color name="lblue">#91D2FA</color>-->
+    <!--<color name="blue">#1B95E0</color>-->
+    <!--<color name="grey">#ABB8C1</color>-->
+    <!--<color name="red">#E9244F</color>-->
+    <!--<color name="pink">#F58EA9</color>-->
+    <!--<color name="purple">#9832EB</color>-->
+</resources>

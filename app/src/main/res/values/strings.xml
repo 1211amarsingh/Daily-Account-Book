@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Daily Account Book</string>
+
+    <string-array name="payment_type">
+        <item>Cash</item>
+        <item>Cheque</item>
+        <item>Card</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="transaction_type">
+        <item>Credit</item>
+        <item>Debit</item>
+    </string-array>
+</resources>
